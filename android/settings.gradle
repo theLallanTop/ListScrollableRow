@@ -1,0 +1,3 @@
+rootProject.name = 'ListScrollableRow'
+
+include ':app'
